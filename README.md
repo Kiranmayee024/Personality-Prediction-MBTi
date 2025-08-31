@@ -1,4 +1,4 @@
-# Personality-Prediction-MBTi
+# Personality-Prediction-MBTI
 MBTI Personality Prediction Using Machine Learning
 ## Project Overview
 This project aims to predict Myers-Briggs Type Indicator (MBTI) personality types based on user posts from social media or similar sources. The analysis leverages Natural Language Processing (NLP) techniques for text preprocessing and multiple machine learning algorithms for classification of personality traits.
